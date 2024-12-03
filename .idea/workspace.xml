@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba09db33-a20d-46f6-b7f0-ee1da84c42a5" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Day_1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_1/main.py" afterDir="false" />
+    <list default="true" id="ba09db33-a20d-46f6-b7f0-ee1da84c42a5" name="Changes" comment="Day 1">
+      <change afterPath="$PROJECT_DIR$/Day_2/Z1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/Z2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/Z2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1/Z2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1/Z2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,33 +27,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GavrilovMilan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GavrilovMilan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GavrilovMilan/AoC_2024.git",
-    "accountId": "6bc26abc-7835-4455-af6e-d2b9ae65933f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GavrilovMilan/AoC_2024.git&quot;,
+    &quot;accountId&quot;: &quot;6bc26abc-7835-4455-af6e-d2b9ae65933f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pd48WZIU0z9tWV3IeBaaw0qaH8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Z1.executor": "Run",
+    "Python.Z2.executor": "Run",
+    "Python.Z2_2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Milan/PycharmProjects/PIT",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -78,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733082636987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 1">
+      <option name="closed" value="true" />
+      <created>1733085577921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733085577921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1" />
   </component>
 </project>

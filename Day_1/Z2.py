@@ -5,7 +5,6 @@ lista = input_file.readlines()
 
 lista1 = []
 lista2 = []
-distance = []
 
 for str in lista:
     str = re.sub('\n', '', str)
